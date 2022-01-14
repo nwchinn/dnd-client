@@ -23,6 +23,7 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
+    "start-no-ssl": "react-scripts start",
     "build": "react-scripts --openssl-legacy-provider build",
     "start-api": "cd ../server-flask && env/bin/flask run --no-debugger",
     "test": "react-scripts test",

@@ -1,6 +1,7 @@
 # DnD Encounter App
 
 By Nick Chinn <nwchinn@gmail.com>
+Collaborators: Austin Smith <austingsmith5@gmail.com>
 
 This app helps a DM run DnD 5e encounters and will eventually track player stats, xp, etc.
 
